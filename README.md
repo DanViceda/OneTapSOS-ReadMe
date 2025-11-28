@@ -70,10 +70,10 @@ This process can take valuable seconds, especially during fear, shock, or when s
 OneTapSOS allows users to send a complete emergency report with **just one tap**, without needing to talk or stay on the phone.
 
 The app automatically sends:
-- ✉️ Emergency message
-- 📍 User's GPS location
-- 🚨 Type of incident
-- ⏰ Timestamp and details
+- Emergency message
+- User's GPS location
+- Type of incident
+- Timestamp and details
 
 All through **offline SMS**, making it faster, discreet, and accessible even without internet.
 
@@ -175,21 +175,21 @@ Watch the full system demonstration showing:
 
 ## 🔐 Security & Privacy
 
-- 🔒 Secure user authentication
-- 🛡️ Data encryption for personal information
-- 📍 Privacy-compliant location tracking
-- 🚫 No data sharing with third parties
+- Secure user authentication
+- Data encryption for personal information
+- Privacy-compliant location tracking
+- No data sharing with third parties
 
 ---
 
 ## 🚀 Future Enhancements
 
-- 🌐 Multi-language support
-- 📞 Integration with local emergency hotlines
-- 🗺️ Enhanced offline mapping
-- 📊 Advanced analytics and reporting
-- 🔔 Push notification system
-- 👥 Community safety features
+- Multi-language support
+- Integration with local emergency hotlines
+- Enhanced offline mapping
+- Advanced analytics and reporting
+- Push notification system
+- Community safety features
 
 ---
 
@@ -197,8 +197,8 @@ Watch the full system demonstration showing:
 
 **Danniella Mae D. Viceda** (Android Development Lead)  
 📧 Email: vicedadanniella@gmail.com  
-💼 LinkedIn: in/danniella-mae-viceda-74a97926b/
-🐙 GitHub: github.com/DanViceda 
+inkedIn: in/danniella-mae-viceda-74a97926b/
+GitHub: github.com/DanViceda 
 
 ### Other Team Members
 - RavenKlein T. Rubin – ravenkleinrubin@gmail.com
@@ -225,3 +225,4 @@ This project was developed as a capstone project for educational purposes.
 
 
 **OneTapSOS** – *Making emergencies one tap away from help* 🆘
+
